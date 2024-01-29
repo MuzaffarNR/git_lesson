@@ -25,7 +25,7 @@
 ![hi](ava-mult-vk-7.jpg)
 
 ## Ссылки
-<https://gb.ru/lessons/396611>
+[Ссылка на платформу с подскаской](https://gb.ru/lessons/396611 "переход на урок 3")
 
 ## Работы с таблицами 
 | Command | Description |
