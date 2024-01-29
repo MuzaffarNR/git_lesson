@@ -25,6 +25,7 @@
 ![hi](ava-mult-vk-7.jpg)
 
 ## Ссылки
+<https://gb.ru/lessons/396611>
 
 ## Работы с таблицами 
 | Command | Description |
