@@ -25,7 +25,7 @@
 ![hi](ava-mult-vk-7.jpg)
 
 ## Ссылки
-<https://gb.ru/lessons/396614>
+[Ссылка на платформу GB](https://gb.ru/lessons/396614)
 
 ## Работы с таблицами 
 
